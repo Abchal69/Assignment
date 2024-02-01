@@ -1,1 +1,1 @@
-# Assignment
+I added 8 balls that collide into eachother and change color. You can also change the size and color of the balls. Also if you press the mouse it will change color. This game is creagted on keymouse, if, else if, createCanvas, function draw, and also ellipse. This game is to press the mouse so it can change color, you can also chnage the size by pressing the up or down booton. This can make a huge buble and fill up the canvas or make it so small it can disappear.
